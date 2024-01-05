@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://github.com/nyxfr">
+        <img align="center" src="/assets/name.png" alt="Utkarsh Kumar Singh"></a>
 </p>
 
 <p align="center">
