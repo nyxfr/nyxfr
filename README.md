@@ -1,8 +1,11 @@
+<!-- FF2B2BFF -->
+
+
 <p align="center">
     <a href="https://github.com/nyxfr">
-        <img align="center" src="/assets/name.png" alt="Utkarsh Kumar Singh"></a>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono+Nerd+Font&pause=1000&color=FF2B2B&center=true&repeat=false&random=false&width=435&lines=Utkarsh+Kumar+Singh" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono+Nerd+Font&pause=1000&color=A835FF&random=false&width=435&lines=An+Ex-Kvian%2C+Proud+KIITian" alt="Typing SVG" /></a>    
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono+Nerd+Font&pause=1000&color=FF2B2B&center=true&random=false&width=435&lines=An+Ex-Kavian%2C+Proud+KIITian" alt="Typing SVG" /></a>
 </p>
